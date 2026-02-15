@@ -1,8 +1,2 @@
-streamlit
-plotly
-pandas
-numpy
-requests
-MetaTrader5
 plotly==5.18.0
 yfinance==0.2.36
